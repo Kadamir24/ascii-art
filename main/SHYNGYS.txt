@@ -1,0 +1,16 @@
+                                       
+o      o-o  o           o  o o--o o  o 
+|     o   o |           | /  |    | /  
+|     |   | |           OO   O-o  OO   
+|     o   o |           | \  |    | \  
+O---o  o-o  O---o       o  o o--o o  o 
+                                       
+                                       
+                                             
+  o-o o  o o--o o--o   o   o o--o  o--o o  o 
+ /    |  | |    |   |  |   | |   | |    | /  
+O     O--O O-o  O--o   |   | O-Oo  O-o  OO   
+ \    |  | |    |   |  |   | |  \  |    | \  
+  o-o o  o o--o o--o    o-o  o   o o--o o  o 
+                                             
+                                             
